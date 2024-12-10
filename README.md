@@ -27,7 +27,7 @@ Start the Streamlit App:
 ```bash
 streamlit run app.py
 ```
-- Navigate to the App: Open your browser and go to http://localhost:8501.
+- Navigate to download the Datasets: Open your browser and go to https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign.
 
 ## Choose an Option:
 
